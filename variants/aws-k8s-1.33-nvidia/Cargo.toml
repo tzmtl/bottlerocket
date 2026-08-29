@@ -40,7 +40,7 @@ included-packages = [
     # nvidia
     "nvidia-container-toolkit-k8s",
     "nvidia-k8s-device-plugin",
-    "kmod-6.18-nvidia-r595-58-tesla",
+    "kmod-6.18-nvidia-r580-82-tesla",
 ]
 kernel-parameters = [
     "console=tty0",
