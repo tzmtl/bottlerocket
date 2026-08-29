@@ -11,9 +11,9 @@ digest = "zfqd6UiE50c0yXGOC5dd9oCj5o0CFa41giNZnhNdzcw="
 [[kit]]
 name = "bottlerocket-kernel-kit"
 version = "7.2.1"
-vendor = "bottlerocket"
-source = "public.ecr.aws/bottlerocket/bottlerocket-kernel-kit:v7.2.1"
-digest = "yyfbKes1Uhytp459V0rpQeED2VuJhuWh8i5VE4zSRlQ="
+vendor = "tzmtl"
+source = "registry-mtl-001.mydeos.com/library/bottlerocket-kernel-kit:v7.2.1"
+digest = "YqQwfmsRrAMLo82VYzcXuz6Hr6LxMSb67SA0UoxULZY="
 
 [[kit]]
 name = "bottlerocket-core-kit"

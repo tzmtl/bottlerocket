@@ -1,0 +1,7 @@
+[settings.bootstrap-commands.000-mount-instance-storage]
+commands = [
+    ["apiclient", "ephemeral-storage", "init"],
+    ["apiclient", "ephemeral-storage", "bind"],
+]
+essential = true
+mode = "always"
